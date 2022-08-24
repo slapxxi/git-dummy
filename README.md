@@ -1,2 +1,3 @@
 # git-dummy
-for learning purposes
+
+for learning purposes only

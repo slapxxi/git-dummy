@@ -5,5 +5,5 @@ function greet() {
 }
 
 function msg(msg) {
-  console.log(msg, 'change 1');
+  console.log(msg, 'change 1', 'chnage 3');
 }

@@ -1,5 +1,6 @@
 // app.js code
 
+// greet
 function greet() {
   console.log('hi from github', 'change');
 }

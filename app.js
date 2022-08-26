@@ -1,7 +1,7 @@
 // app.js code
 
 function greet() {
-  console.log('hi from github', 'change');
+  console.log('hi from github');
 }
 
 function msg(msg) {

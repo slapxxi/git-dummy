@@ -7,3 +7,5 @@ function greet() {
 function msg(msg) {
   console.log(msg);
 }
+
+// comment

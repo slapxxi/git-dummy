@@ -1,6 +1,5 @@
 // app.js code
 
-// greet
 function greet() {
   console.log('hi from github', 'change');
 }
@@ -8,5 +7,3 @@ function greet() {
 function msg(msg) {
   console.log(msg);
 }
-
-// topic

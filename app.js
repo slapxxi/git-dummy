@@ -5,3 +5,7 @@ function greet() {
 function msg(msg) {
   console.log(msg);
 }
+
+function howdy() {
+  console.log('howdy');
+}

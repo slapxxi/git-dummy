@@ -1,5 +1,3 @@
-// app.js code
-
 function greet() {
   console.log('hi from github');
 }
@@ -7,5 +5,3 @@ function greet() {
 function msg(msg) {
   console.log(msg);
 }
-
-// comment

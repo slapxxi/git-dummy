@@ -5,3 +5,7 @@ function greet() {
 function msg(msg) {
   console.log(msg);
 }
+
+function fourth() {
+  console.log('fourth');
+}

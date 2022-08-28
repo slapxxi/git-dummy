@@ -9,3 +9,7 @@ function msg(msg) {
 function fourth() {
   console.log('fourth');
 }
+
+function fifth() {
+  console.log('fifth');
+}

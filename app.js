@@ -13,3 +13,7 @@ function fourth() {
 function fifth() {
   console.log('fifth');
 }
+
+function sixth() {
+  console.log('sixth');
+}

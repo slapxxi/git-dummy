@@ -5,3 +5,7 @@ function second() {
 function main() {
   console.log('main');
 }
+
+function secondary() {
+  console.log('secondary');
+}
